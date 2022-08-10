@@ -144,3 +144,59 @@ h3{
     justify-content: flex-end;
 }
 
+/*---Last Section---*/
+.section4{
+    padding: 100px 200px;
+}
+
+
+.signUpContainer{
+    background-color: #3882F6;
+    border-radius: 8px;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.innerLeft{
+    padding: 15px 70px;
+    flex: 1;
+}
+
+.innerRight{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 15px 70px;
+}
+
+.section4 h3{
+    font-family: "Roboto", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    color: #E5E7EB;
+}
+
+.section4 button{
+    background-color: #3882F6;
+    padding: 8px 32px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color:#E5E7EB;
+    border-radius: 8px;
+    border: 2px solid #E5E7EB;
+}
+
+/*---Footer---*/
+
+.footer{
+    padding: 42px;
+    background-color:#1F2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
